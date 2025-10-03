@@ -1,0 +1,14 @@
+# Ignorar dependências
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Cache do Cypress
+cypress/videos/
+cypress/screenshots/
