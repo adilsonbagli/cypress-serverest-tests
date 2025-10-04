@@ -19,4 +19,3 @@ describe('Cadastro + Login - Serverest', () => {
     cy.url().should('include', '/home');
   });
 });
-
